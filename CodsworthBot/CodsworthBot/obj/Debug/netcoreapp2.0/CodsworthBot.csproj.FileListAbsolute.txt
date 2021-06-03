@@ -1,0 +1,11 @@
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\bin\Debug\netcoreapp2.0\CodsworthBot.deps.json
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\bin\Debug\netcoreapp2.0\CodsworthBot.runtimeconfig.json
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\bin\Debug\netcoreapp2.0\CodsworthBot.runtimeconfig.dev.json
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\bin\Debug\netcoreapp2.0\CodsworthBot.dll
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\obj\Debug\netcoreapp2.0\CodsworthBot.csprojResolveAssemblyReference.cache
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\obj\Debug\netcoreapp2.0\CodsworthBot.csproj.CoreCompileInputs.cache
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\obj\Debug\netcoreapp2.0\CodsworthBot.AssemblyInfoInputs.cache
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\obj\Debug\netcoreapp2.0\CodsworthBot.AssemblyInfo.cs
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\bin\Debug\netcoreapp2.0\CodsworthBot.pdb
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\obj\Debug\netcoreapp2.0\CodsworthBot.dll
+C:\Users\Guita\source\repos\CodsworthBot\CodsworthBot\obj\Debug\netcoreapp2.0\CodsworthBot.pdb
